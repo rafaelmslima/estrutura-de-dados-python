@@ -46,7 +46,7 @@ if __name__ == "__main__":
     n7 = Node('V')
     n8 = Node('A')
     n9 = Node('5')
-    n10 = Node('3')
+    n10 = Node('')
 
     n6.left = n7
     n6.right = n8
